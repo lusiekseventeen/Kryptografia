@@ -1,0 +1,16 @@
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\play.exe.config
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\play.exe
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\play.pdb
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\obj\Debug\play.exe
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\obj\Debug\play.pdb
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\obj\Debug\play.csprojResolveAssemblyReference.cache
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\NAudio.dll
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\NAudio.xml
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\bin\Debug\play.exe.config
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\obj\Debug\play.exe
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\obj\Debug\play.pdb
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\bin\Debug\play.exe
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\bin\Debug\play.pdb
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\bin\Debug\NAudio.dll
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\bin\Debug\NAudio.xml
+C:\Users\Łukasz Szymczuk\Source\Repos\Krypto\L3\play\obj\Debug\play.csprojResolveAssemblyReference.cache
