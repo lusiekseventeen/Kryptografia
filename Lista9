@@ -1,0 +1,67 @@
+/////////////////////////////////
+/// Przykład z PWR-WiFi
+/////////////////////////////////
+
+C:\Users\Łukasz Szymczuk>netsh wlan show hostednetwork
+Hosted network settings
+-----------------------
+    Mode                   : Allowed
+    SSID name              : "PWR-WiFi"
+    Max number of clients  : 100
+    Authentication         : none
+    Cipher                 : none
+
+Hosted network status
+---------------------
+    Status                 : Started
+    BSSID                  : 32:3a:64:e5:e4:85
+    Radio type             : 802.11n
+    Channel                : 11
+    Number of clients      : 9
+        2c:ae:2b:d9:7b:dd        Authenticated
+        28:a0:2b:92:4d:a2        Authenticated
+        2c:1e:2b:d9:cb:ed        Authenticated
+        2d:60:2b:52:3d:ee        Authenticated
+        2a:ae:2b:79:bb:d4        Authenticated
+        22:70:2b:92:4d:a2        Authenticated
+        23:be:2b:c9:7b:dd        Authenticated
+        23:a0:2b:92:2d:a2        Authenticated
+        2a:be:2b:d9:7b:db        Authenticated
+
+/////////////////////////////////
+/// Lista poszukiwanych sieci
+/////////////////////////////////
+
+Starbucks-Hotspot   (Noc 1)
+PWR-WiFi            (Noc 9)
+_PKP_WIFI           (Noc 2)
+Newag-Hotspot       (Noc 3)
+McD-Hotspot         (Noc 5)
+
+
+/////////////////////////////////
+/// Protokoły
+/////////////////////////////////
+
+TCP
+TLSv1.2
+DNS
+SSL
+
+/////////////////////////////////
+/// Mapa
+/////////////////////////////////
+
+Tracing route to www.bobshop.pl [89.31.143.16]
+over a maximum of 30 hops:
+
+  9    65 ms   129 ms    78 ms  ae106-10.ffttr6.Frankfurt.opentransit.net [193.251.249.7]       | FRANKFURT
+ 11    87 ms    80 ms    80 ms  ffm-s1-rou-1102.DE.eurorings.net [134.222.48.159]               | AMSTERDAM
+ 12    76 ms    75 ms    79 ms  nbg-s1-rou-1001.DE.eurorings.net [134.222.227.118]              | KESSEL
+
+Tracing route to star-mini.c10r.facebook.com [31.13.93.36]                                      | DUBLIN
+                                                                                                | FRANKFURT
+                                                                                                | MANELO PARK
+
+Tracing route to www.myslecki.pl [188.116.35.23]                                                | WARSAW
+Tracing route to stackoverflow.com [151.101.129.69]                                             | (SWISS) SAN FRANCISCO 
